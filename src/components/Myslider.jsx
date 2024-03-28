@@ -10,22 +10,25 @@ const Myslider = () => {
         <div className='max-w-[900px] px-3 mx-auto pt-24 pb-7 '>
             <Swiper effect={'flip'} grabCursor={true} pagination={false} navigation={true} modules={[EffectFlip, Pagination, Navigation]} className="mySwiper ">
                 <SwiperSlide className='text-center '>
-                    <img className='w-full h-[520px]' src="https://i.ibb.co/7QGQnjG/slip5.jpg" />
+                    <img className='w-[80%] h-[520px] mx-auto' src="https://i.ibb.co/7QGQnjG/slip5.jpg" />
                 </SwiperSlide>
                 <SwiperSlide className='text-center'>
-                    <img className='w-full h-[520px]' src=" https://i.ibb.co/yS98F0j/slop5.jpg" />
+                    <img className='w-[80%] h-[520px] mx-auto' src=" https://i.ibb.co/yS98F0j/slop5.jpg" />
                 </SwiperSlide>
                 <SwiperSlide className='text-center'>
-                    <img className='w-full h-[520px]' src="https://i.ibb.co/hK4pPcn/slib.webp" />
+                    <img className='w-[80%] h-[520px] mx-auto' src="https://i.ibb.co/hK4pPcn/slib.webp" />
                 </SwiperSlide>
                 <SwiperSlide className='text-center'>
-                    <img className='w-full h-[520px]' src="https://i.ibb.co/mHZR9NC/slib2.jpg" />
+                    <img className='w-[80%] h-[520px] mx-auto' src="https://i.ibb.co/mHZR9NC/slib2.jpg" />
                 </SwiperSlide>
                 <SwiperSlide className='text-center'>
-                    <img className='w-full h-[520px]' src="https://i.ibb.co/5v02jqW/slip3.webp" />
+                    <img className='w-[80%] h-[520px] mx-auto' src="https://i.ibb.co/5v02jqW/slip3.webp" />
                 </SwiperSlide>
                 <SwiperSlide className='text-center'>
-                    <img className='w-full h-[520px]' src="https://i.ibb.co/n1zk46G/slip4.jpg" />
+                    <img className='w-[80%] h-[520px] mx-auto' src="https://i.ibb.co/n1zk46G/slip4.jpg" />
+                </SwiperSlide>
+                <SwiperSlide className='text-center'>
+                    <img className='w-[80%] h-[520px] mx-auto' src="https://i.ibb.co/hK4pPcn/slib.webp" />
                 </SwiperSlide>
             </Swiper>
         </div>
