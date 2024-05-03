@@ -17,7 +17,7 @@ function Test() {
 
     return (
         <div className='bg-black min-h-screen'>
-            <div className='max-w-[1140px] px-3 mx-auto'>
+            <div className='max-w-[768px] px-3 mx-auto'>
                 <div className='pt-5' >
                     <div className='flex gap-8 justify-end'>
                         <h2 className='text-white opacity-[0.4]  text-lg fw-normal capitalize'>mobile</h2>
@@ -61,7 +61,7 @@ function Test() {
                 </div>
                 <div className='pt-4'>
                     <div className='flex items-center justify-between gap-42'>
-                        <h2 className='text-white text-lg fw-normal capitalize'>watch on tv or laptop</h2>
+                        <h2 className='text-white text-lg fw-normal capitalize'>adds free movie shows (except shows)</h2>
                         <div className='flex gap-[85px]'>
                             <p className='text-[#8a8989] font-normal text-2xl !mt-[-13px] mx-auto'>x</p>
                             <p className='text-[#8a8989] font-normal text-2xl !mt-[-13px] mx-1'>x</p>
@@ -73,7 +73,7 @@ function Test() {
                 </div>
                 <div className='pt-4'>
                     <div className='flex items-center justify-between gap-42'>
-                        <h2 className='text-white text-lg fw-normal capitalize'>watch on tv or laptop</h2>
+                        <h2 className='text-white text-lg fw-normal capitalize'>number of devices can loggined in</h2>
                         <div className='flex gap-[85px]'>
                             <p className='text-[#8a8989] font-normal text-xl !mt-[-13px] mx-1'>2</p>
                             <p className='text-[#8a8989] font-normal text-xl !mt-[-13px] mx-1'>3</p>
@@ -84,7 +84,7 @@ function Test() {
                 <div className='pt-4'>
 
                     <div className='flex items-center justify-between gap-42'>
-                        <h2 className='text-white text-lg fw-normal capitalize'>watch on tv or laptop</h2>
+                        <h2 className='text-white text-lg fw-normal capitalize'>max-vedio quality</h2>
                         <div className='flex gap-[54px]'>
                             <div className='ml- 32'>
                                 <p className='text-[#8a8989] font-normal text-xl !mt-[-13px]  text-center  uppercase'>hd</p>
